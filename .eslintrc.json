@@ -1,0 +1,3 @@
+{
+  "extends": "@la-forge-dev/eslint-config-tsx",
+}
